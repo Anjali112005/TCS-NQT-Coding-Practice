@@ -24,6 +24,26 @@ Completed 15 beginner-friendly programming exercises:
 14. Find the ASCII Value of a Character
 15. Convert Days into Years, Weeks, and Days
 
+### 02. Operators and Conditions
+
+Completed 15 beginner-friendly programming exercises:
+
+16. Check Whether a Number Is Even or Odd
+17. Check Whether a Number Is Positive, Negative, or Zero
+18. Find the Larger of Two Numbers
+19. Find the Largest of Three Numbers
+20. Find the Smallest of Three Numbers
+21. Check Whether a Year Is a Leap Year
+22. Check Whether a Number Is Divisible by 5 and 11
+23. Check Voting Eligibility
+24. Calculate a Student's Grade Based on Marks
+25. Check Whether a Character Is a Vowel or Consonant
+26. Check Whether a Character Is an Alphabet, Digit, or Special Character
+27. Create a Simple Calculator Using Switch
+28. Find the Absolute Value of a Number
+29. Check Whether Three Sides Form a Valid Triangle
+30. Classify a Triangle as Equilateral, Isosceles, or Scalene
+
 ## Technology Used
 
 - **Language:** Java
@@ -66,7 +86,7 @@ TCS-NQT-Coding-Practice/
 
 - [x] Create repository structure with 18 topic folders
 - [x] Programming Basics — 15 exercises completed
-- [ ] Conditions
+- [x] Operators and Conditions — 15 exercises completed
 - [ ] Loops
 - [ ] Number Programs
 - [ ] Patterns
