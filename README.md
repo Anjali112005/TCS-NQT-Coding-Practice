@@ -44,6 +44,31 @@ Completed 15 beginner-friendly programming exercises:
 29. Check Whether Three Sides Form a Valid Triangle
 30. Classify a Triangle as Equilateral, Isosceles, or Scalene
 
+### 03. Loops
+
+Completed 20 beginner-friendly programming exercises:
+
+31. Print Numbers from 1 to N
+32. Print Numbers from N to 1
+33. Print All Even Numbers up to N
+34. Print All Odd Numbers up to N
+35. Find the Sum of the First N Natural Numbers
+36. Find the Sum of Even Numbers up to N
+37. Find the Sum of Odd Numbers up to N
+38. Print a Multiplication Table
+39. Find the Factorial of a Number
+40. Count from 1 to N Using a While Loop
+41. Find the Power of a Number Without Using a Built-in Power Function
+42. Print Numbers Divisible by Both 3 and 5
+43. Count Numbers from 1 to N Divisible by K
+44. Find the Sum of Squares from 1 to N
+45. Find the Sum of Cubes from 1 to N
+46. Print a Square Star Pattern
+47. Print a Right-Angled Triangle Star Pattern
+48. Print an Inverted Triangle Star Pattern
+49. Print a Number Triangle
+50. Print a Pyramid Pattern Using Stars
+
 ## Technology Used
 
 - **Language:** Java
@@ -87,7 +112,7 @@ TCS-NQT-Coding-Practice/
 - [x] Create repository structure with 18 topic folders
 - [x] Programming Basics — 15 exercises completed
 - [x] Operators and Conditions — 15 exercises completed
-- [ ] Loops
+- [x] Loops — 20 exercises completed
 - [ ] Number Programs
 - [ ] Patterns
 - [ ] Arrays
@@ -106,4 +131,6 @@ TCS-NQT-Coding-Practice/
 
 ---
 
-**Learning consistently, one problem at a time.**
+**Progress: 50/50 exercises completed across the first three topics.**
+
+_Learning consistently, one problem at a time._
